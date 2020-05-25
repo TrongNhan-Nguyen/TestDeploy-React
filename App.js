@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.contaier}>
       <Text>Name: Test Deploy GitHub</Text>
       <Text>Author: Nguyen Trong Nhan</Text>
+      <Text>ID: PS10674</Text>
     </View>
   );
 }
